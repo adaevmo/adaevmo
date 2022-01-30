@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mikhail Adaev
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python, SQL, Tableau, Statistics
+- 💞️ I’m looking to collaborate on projects connected with all mentioned above
+- 📫 Telegram: mkhl_a
